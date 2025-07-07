@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: shravani/depolymentapp:latest
+        tags: shravanimagadum92/depolymentapp:latest
